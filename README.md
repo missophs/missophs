@@ -78,8 +78,9 @@ Practical, governed adoption — real pilots and working tools inside real organ
 <img src="https://www.google.com/s2/favicons?domain=adp.com&sz=64" height="32" alt="ADP" />
 <img src="https://www.google.com/s2/favicons?domain=paylocity.com&sz=64" height="32" alt="Paylocity" />
 <img src="https://www.google.com/s2/favicons?domain=lever.co&sz=64" height="32" alt="Lever" />
+<img src="https://www.google.com/s2/favicons?domain=github.com&sz=64" height="32" alt="GitHub" />
 
-Workday · ADP · Paylocity · Lever
+Workday · ADP · Paylocity · Lever · GitHub
 
 &nbsp;
 
