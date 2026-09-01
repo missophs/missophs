@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" height="180" src="https://capsule-render.vercel.app/api?type=waving&color=2E6DB4&fontColor=FFFFFF&text=Melissa%20Weiss&fontSize=44&fontAlignY=42&animation=fadeIn&height=180" />
+<img width="100%" height="180" src="https://capsule-render.vercel.app/api?type=waving&color=1C4587&fontColor=FFFFFF&text=Melissa%20Weiss&fontSize=44&fontAlignY=42&animation=fadeIn&height=180" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&color=1C4587&center=true&vCenter=true&width=820&lines=People+Strategy+for+Growth-Stage+Companies;Organizational+Design+%26+Culture;Retention+Through+Scale" />
 
@@ -50,7 +50,9 @@ Increasingly focused on where AI intersects with HR: building AI-enabled HR work
 - HRIS & HR Technology
 - Talent Acquisition & Onboarding
 
-**HR Tech Stack (AI-Enabled HR Strategy & Workflow):**
+## HR Technology & Automation
+
+Practical, governed adoption — real pilots and working tools inside real organizations, with guardrails defined before rollout.
 
 <img src="https://www.google.com/s2/favicons?domain=workday.com&sz=64" height="32" alt="Workday" />
 <img src="https://www.google.com/s2/favicons?domain=adp.com&sz=64" height="32" alt="ADP" />
@@ -59,46 +61,76 @@ Increasingly focused on where AI intersects with HR: building AI-enabled HR work
 
 Workday · ADP · Paylocity · Lever
 
+&nbsp;
+
+**AI-enabled ER advisory model** — Formalized ER investigation protocols and extended an AI-enabled Employee Relations advisory model firm-wide. Cut ER risk exposure 20% and eliminated outside counsel dependency for terminations and accommodations.
+
+**AI performance platform governance** — Established governance for an AI-driven performance feedback platform, defining policy standards and decision criteria. Enabled a controlled pilot with 50% of employees, 40% reporting actionable feedback.
+
+**Automation that returns hours** — Global HRIS implementations across four regions plus platform consolidation that recovered 9 hours weekly, redirected to hiring quality and retention work.
+
 ## Featured Projects
 
 <details open>
-<summary><b>Reversing Attrition and Steering an HR Function Through PE Restructuring & Sale — Cprime, Inc</b></summary>
+<summary><b>The Acquisition — Cprime, Inc</b></summary>
 
 &nbsp;
 
-| | |
-| :--- | :--- |
-| **Scope** | Global Head of HR & Talent Acquisition / Chief People Officer, reporting to the CEO and PE sponsors |
-| **Scale** | 1,000-person organization, 20-person HR team, 4 countries, $9M HR budget |
-| **Impact** | Reversed workforce attrition 31% to near-zero, cut executive turnover 21%, advised 4 M&A transactions in under 2 years with all target leadership retained, and contributed directly to a successful company sale at target valuation |
+**Situation:** A 1,000-person global SaaS and consulting firm entered PE-led restructuring and a Goldman Sachs acquisition review. Senior leaders were uncertain about their futures, and executive flight risk threatened deal value.
+
+**Move:** Conducted stakeholder impact assessments and leadership coaching to align executives to acquisition objectives, and embedded a weekly review process with legal and finance to clear diligence items.
+
+**Result:** Executive turnover cut 21%, every people-related diligence item closed, and leadership readiness preserved through close.
 
 </details>
 
 <details>
-<summary><b>Rebuilding Total Rewards and Closing Pay Equity Gaps — DHW Consulting Services</b></summary>
+<summary><b>The Scale-Up — Concierge Movement</b></summary>
 
 &nbsp;
 
-| | |
-| :--- | :--- |
-| **Scope** | Fractional Head of People, building job architecture and compensation governance from scratch across client engagements |
-| **Scale** | Organizations ranging from 50 to 1,500 employees, across Healthcare, Media, Professional Services, Tech, and SaaS; 500+ roles benchmarked to live market data |
-| **Impact** | Closed 53% pay equity gaps, eliminated $1.2M in excess labor and vendor spend across 6 engagements, and sustained a 35% cost reduction |
+**Situation:** A health and wellness startup was doubling headcount with no HR infrastructure. Hiring, pay, and planning decisions ran founder to founder, and every new hire risked diluting margin.
+
+**Move:** Built the People function from zero: onboarding systems tied to business outcomes, quarterly workforce planning tied to hiring and budget cycles, job architecture benchmarked to market, and a PEO platform consolidating payroll and compliance.
+
+**Result:** Headcount grew 50 to 100+ in two years, new-hire time-to-productivity fell 30%, planning accuracy rose 21%, and margin contribution per head held stable through 2x growth.
 
 </details>
 
 <details>
-<summary><b>Building a People Function from Zero — Concierge Movement</b></summary>
+<summary><b>The Build — AI-Enabled ER</b></summary>
 
 &nbsp;
 
-| | |
-| :--- | :--- |
-| **Scope** | Head of People / HR Business Partner, building the entire function from the ground up at a health and wellness startup |
-| **Scale** | Headcount scaled 50 to 100+ employees while revenue doubled |
-| **Impact** | Reduced voluntary turnover 15%, lifted employee engagement scores 20%, and cut new-hire time-to-productivity 30% |
+**Situation:** A media client faced recurring employee relations risk, slow investigations, and outside counsel costs on every termination and accommodation decision.
+
+**Move:** Formalized ER investigation protocols, defined escalation and documentation standards, and extended an AI-enabled ER advisory model firm-wide with governance set before rollout.
+
+**Result:** ER risk exposure cut 20%, outside counsel dependency eliminated, and the model now standard across a six-client advisory portfolio.
 
 </details>
+
+<details>
+<summary><b>The Rebuild — DHW Consulting Services</b></summary>
+
+&nbsp;
+
+**Situation:** A mid-market organization had no formal job architecture, and pay equity gaps had been flagged as legal, compliance, and retention risk during PE due diligence.
+
+**Move:** Built job architecture from scratch, benchmarked 500+ roles to live market data, and centralized compensation governance across the organization.
+
+**Result:** Closed 53% pay equity gaps and modernized total rewards strategy, removing the risk PE sponsors had flagged as deal exposure.
+
+</details>
+
+## Operating Style
+
+**How I show up:**
+
+| | | |
+| :--- | :--- | :--- |
+| **COACH** — Set the vision | **PLAYER** — Do the work | **PARTNER** — Think with the business |
+| Define the People strategy in the language the CEO and CFO already speak: margin, forecast accuracy, retention risk, transaction readiness. | Roll up sleeves when the moment demands it. I have personally run investigations, built comp models, and closed diligence items at 11pm. | A true thought partner to executives. If a people decision touches revenue, cost, or risk, I want to be in the room before it happens. |
 
 ## Experience
 
