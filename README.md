@@ -155,7 +155,7 @@ Workday · ADP · Paylocity · Lever
 
 **Head of Human Resources (Mediacom, Sudler) / Senior HR Business Partner — WPP** · Oct 2017 – Jun 2019
 - Led People strategy across two global media subsidiaries — $9.5M HR budget, 10-person HR team, 3 countries, 800+ employees
-- Ended a 19% executive attrition rate within 12 months by restructuring reporting lines and standing up conflict-resolution sessions
+- Reversed a 31% executive attrition rate to near-zero within 12 months by restructuring reporting lines with subsidiary leadership and standing up conflict-resolution sessions
 - Lifted eNPS 42% in year one and expanded internal mobility 22% through new L&D programs and ERGs
 - Realigned the $9.5M HR budget from administrative overhead into retention and learning with no added headcount
 
