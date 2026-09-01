@@ -13,7 +13,5 @@
 
 </div>
 
-![stats](https://github-readme-stats.vercel.app/api?username=missophs&bg_color=1c4587&title_color=acc2e6&text_color=9e07f0&icon_color=acc2e6)
 ![streak](https://streak-stats.demolab.com?user=missophs&background=1c4587&ring=acc2e6&fire=acc2e6&currStreakLabel=9e07f0&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff)
-![activity](https://github-readme-activity-graph.vercel.app/graph?username=missophs&bg_color=1c4587&color=9e07f0&line=acc2e6&point=acc2e6&title_color=ffffff&text_color=ffffff)
 
