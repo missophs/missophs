@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" height="180" src="https://capsule-render.vercel.app/api?type=waving&color=0B2545&fontColor=FFFFFF&text=Melissa%20Weiss&fontSize=44&fontAlignY=42&height=180" />
+<img width="100%" height="180" src="https://capsule-render.vercel.app/api?type=rect&color=0B2545&fontColor=FFFFFF&text=Melissa%20Weiss&fontSize=44&fontAlignY=42&height=180" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&color=1C4587&center=true&vCenter=true&width=820&lines=People+Strategy+for+Growth-Stage+Companies;Organizational+Design+%26+Culture;Retention+Through+Scale" />
 
@@ -216,6 +216,6 @@ Workday · ADP · Paylocity · Lever
 
 *If the people function needs to be built, led, or stabilized through significant organizational change, reach out directly.*
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0B2545&fontColor=FFFFFF&height=100&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0B2545&fontColor=FFFFFF&height=100" />
 
 </div>
