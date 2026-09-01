@@ -5,6 +5,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&color=1C4587&center=true&vCenter=true&width=820&lines=People+Strategy+for+Growth-Stage+Companies;Organizational+Design+%26+Culture;Retention+Through+Scale" />
 
 ![Location](https://img.shields.io/badge/New_York%2C_NY-1C4587?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Education](https://img.shields.io/badge/MPA-Baruch_College-1C4587?style=for-the-badge&logo=graduation-cap&logoColor=white)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-1C4587?style=for-the-badge&logo=vercel&logoColor=white)](https://ai-portfolio-bice-rho.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1C4587?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hrpromelissa/)
@@ -85,6 +86,14 @@ tools:
 
 **Senior Director, Human Resources — NYC Health + Hospitals** · Jun 2014 – Sep 2017
 - Partnered with HR leadership, Total Rewards, and IT across compliance, employee relations, compensation strategy, and talent development for a 10,000-employee corporate population at the largest municipal public health system in the U.S.
+
+## `> cat education.log`
+
+- **Master of Public Administration**, Specialization in Human Resources — Baruch College, New York, NY
+- **Bachelor of Arts** — CW Post, Brookville, New York
+- **Paralegal Certification** — CW Post, Brookville, New York
+
+**Certifications & Professional Associations:** HRCI / SHRM Continuing Education Certifications · LinkedIn Learning Certifications · PMI Certifications · Women in Corp · SHRM Member · Coursera Certifications (AI in HR, People Analytics, Agentic AI & No-Code Automation for Strategic HR) · AI and Career Empowerment (University of Maryland)
 
 ## `> cat achievements.md`
 
