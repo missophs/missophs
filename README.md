@@ -6,6 +6,7 @@
 
 ![Location](https://img.shields.io/badge/New_York%2C_NY-1C4587?style=for-the-badge&logo=googlemaps&logoColor=white)
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-1C4587?style=for-the-badge&logo=vercel&logoColor=white)](https://ai-portfolio-bice-rho.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1C4587?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hrpromelissa/)
 [![Email](https://img.shields.io/badge/Email-1C4587?style=for-the-badge&logo=gmail&logoColor=white)](mailto:melissaw212@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-1C4587?style=for-the-badge&logo=github&logoColor=white)](https://github.com/missophs)
