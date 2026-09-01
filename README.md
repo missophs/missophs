@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" height="180" src="https://capsule-render.vercel.app/api?type=waving&color=1C4587&fontColor=FFFFFF&text=Melissa%20Weiss&fontSize=44&fontAlignY=42&animation=fadeIn&height=180" />
+<img width="100%" height="180" src="https://capsule-render.vercel.app/api?type=waving&color=0B2545&fontColor=FFFFFF&text=Melissa%20Weiss&fontSize=44&fontAlignY=42&animation=fadeIn&height=180" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&color=1C4587&center=true&vCenter=true&width=820&lines=People+Strategy+for+Growth-Stage+Companies;Organizational+Design+%26+Culture;Retention+Through+Scale" />
 
@@ -155,7 +155,7 @@ Workday · ADP · Paylocity · Lever
 
 **Head of Human Resources (Mediacom, Sudler) / Senior HR Business Partner — WPP** · Oct 2017 – Jun 2019
 - Led People strategy across two global media subsidiaries — $9.5M HR budget, 10-person HR team, 3 countries, 800+ employees
-- Reversed a 31% executive attrition rate to near-zero within 12 months by restructuring reporting lines with subsidiary leadership and standing up conflict-resolution sessions
+- Ended a 19% executive attrition rate within 12 months by restructuring reporting lines and standing up conflict-resolution sessions
 - Lifted eNPS 42% in year one and expanded internal mobility 22% through new L&D programs and ERGs
 - Realigned the $9.5M HR budget from administrative overhead into retention and learning with no added headcount
 
