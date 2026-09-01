@@ -36,33 +36,39 @@ Increasingly focused on where AI intersects with HR: building AI-enabled HR work
 
 ## Core Capabilities
 
-- People Strategy & Org Design
+<table>
+<tr>
+<td valign="top">
+
 - Acquisition & Transaction Strategy
+- M&A Integration
 - Executive Talent & Succession Planning
 - Organizational Design & Restructuring
-- Global People Operations (US / EMEA / India / Australia)
-- Workforce Planning
+- Reductions in Force
+- Global People Operations
+- Workforce Planning & Finance Partnership
 - Compensation Strategy & Total Rewards
-- Multi-Jurisdiction Compliance & ER
+- Equity & Job Architecture
+- Multi-Jurisdiction Compliance & Employee Relations
 - People Analytics & Data Storytelling
+
+</td>
+<td valign="top">
+
 - Leadership Team Development
 - Change Management & Transformation
-- HRIS & HR Technology
-- Talent Acquisition & Onboarding
-- People Strategy & Organizational Design
-- Startup/High-Growth & Matrix/Multi-Entity Organizations
-- M&A
-- Workforce Planning & Finance Partnership
-- Compensation Strategy/Total Rewards/Equity & Job Architecture
-- Talent Acquisition & Employer Brand
-- Learning & Development/Manager Enablement/Mentoring & Employee Experience
-- Succession & Executive Talent
+- Talent Acquisition, Employer Brand & Onboarding
+- Learning & Development & Manager Enablement
 - Performance Management & Calibration
-- Employee Relations
-- Reductions in Force & Restructuring
-- DEI Program Oversight/Pay Equity & ERGs
-- Global People Operations/EOR & Mobility
-- People Operations/Employee Lifecycle
+- Employee Experience
+- DEI, Pay Equity & ERGs
+- Global Mobility & EOR
+- People Operations & Employee Lifecycle
+- Startup, High-Growth & Matrix/Multi-Entity Organizations
+
+</td>
+</tr>
+</table>
 
 ## HR Technology & Automation
 
