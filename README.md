@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" height="180" src="https://capsule-render.vercel.app/api?type=waving&color=1C4587&fontColor=FFFFFF&text=Melissa%20Weiss&fontSize=44&fontAlignY=42&animation=fadeIn&height=180" />
+<img width="100%" height="180" src="https://capsule-render.vercel.app/api?type=waving&color=2E6DB4&fontColor=FFFFFF&text=Melissa%20Weiss&fontSize=44&fontAlignY=42&animation=fadeIn&height=180" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&color=1C4587&center=true&vCenter=true&width=820&lines=People+Strategy+for+Growth-Stage+Companies;Organizational+Design+%26+Culture;Retention+Through+Scale" />
 
@@ -58,6 +58,47 @@ Increasingly focused on where AI intersects with HR: building AI-enabled HR work
 <img src="https://www.google.com/s2/favicons?domain=lever.co&sz=64" height="32" alt="Lever" />
 
 Workday · ADP · Paylocity · Lever
+
+## Featured Projects
+
+<details open>
+<summary><b>Reversing Attrition and Steering an HR Function Through PE Restructuring & Sale — Cprime, Inc</b></summary>
+
+&nbsp;
+
+| | |
+| :--- | :--- |
+| **Scope** | Global Head of HR & Talent Acquisition / Chief People Officer, reporting to the CEO and PE sponsors |
+| **Scale** | 1,000-person organization, 20-person HR team, 4 countries, $9M HR budget |
+| **Impact** | Reversed workforce attrition 31% to near-zero, cut executive turnover 21%, advised 4 M&A transactions in under 2 years with all target leadership retained, and contributed directly to a successful company sale at target valuation |
+
+</details>
+
+<details>
+<summary><b>Rebuilding Total Rewards and Closing Pay Equity Gaps — DHW Consulting Services</b></summary>
+
+&nbsp;
+
+| | |
+| :--- | :--- |
+| **Scope** | Fractional Head of People, building job architecture and compensation governance from scratch across client engagements |
+| **Scale** | Organizations ranging from 50 to 1,500 employees, across Healthcare, Media, Professional Services, Tech, and SaaS; 500+ roles benchmarked to live market data |
+| **Impact** | Closed 53% pay equity gaps, eliminated $1.2M in excess labor and vendor spend across 6 engagements, and sustained a 35% cost reduction |
+
+</details>
+
+<details>
+<summary><b>Building a People Function from Zero — Concierge Movement</b></summary>
+
+&nbsp;
+
+| | |
+| :--- | :--- |
+| **Scope** | Head of People / HR Business Partner, building the entire function from the ground up at a health and wellness startup |
+| **Scale** | Headcount scaled 50 to 100+ employees while revenue doubled |
+| **Impact** | Reduced voluntary turnover 15%, lifted employee engagement scores 20%, and cut new-hire time-to-productivity 30% |
+
+</details>
 
 ## Experience
 
