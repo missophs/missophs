@@ -49,6 +49,20 @@ Increasingly focused on where AI intersects with HR: building AI-enabled HR work
 - Change Management & Transformation
 - HRIS & HR Technology
 - Talent Acquisition & Onboarding
+- People Strategy & Organizational Design
+- Startup/High-Growth & Matrix/Multi-Entity Organizations
+- M&A
+- Workforce Planning & Finance Partnership
+- Compensation Strategy/Total Rewards/Equity & Job Architecture
+- Talent Acquisition & Employer Brand
+- Learning & Development/Manager Enablement/Mentoring & Employee Experience
+- Succession & Executive Talent
+- Performance Management & Calibration
+- Employee Relations
+- Reductions in Force & Restructuring
+- DEI Program Oversight/Pay Equity & ERGs
+- Global People Operations/EOR & Mobility
+- People Operations/Employee Lifecycle
 
 ## HR Technology & Automation
 
