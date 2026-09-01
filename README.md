@@ -49,8 +49,14 @@ Increasingly focused on where AI intersects with HR: building AI-enabled HR work
 - Change Management & Transformation
 - HRIS & HR Technology
 - Talent Acquisition & Onboarding
-- HR Tech: Workday, ADP, Paylocity, Lever
 - AI-Enabled HR Strategy & Workflow
+
+**HR Tech Stack:**
+
+![Workday](https://img.shields.io/badge/Workday-1C4587?style=for-the-badge)
+![ADP](https://img.shields.io/badge/ADP-1C4587?style=for-the-badge&logo=adp&logoColor=white)
+![Paylocity](https://img.shields.io/badge/Paylocity-1C4587?style=for-the-badge)
+![Lever](https://img.shields.io/badge/Lever-1C4587?style=for-the-badge)
 
 ## Experience
 
