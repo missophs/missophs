@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&color=1C4587&center=true&vCenter=true&width=820&lines=People+Strategy+for+Growth-Stage+Companies;Organizational+Design+%26+Culture;Retention+Through+Scale" />
 
 ![Location](https://img.shields.io/badge/New_York%2C_NY-1C4587?style=for-the-badge&logo=googlemaps&logoColor=white)
-![Education](https://img.shields.io/badge/MPA-Baruch_College-1C4587?style=for-the-badge)
+![Education](https://img.shields.io/badge/MPA_%7C_Baruch_College-1C4587?style=for-the-badge)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-1C4587?style=for-the-badge&logo=vercel&logoColor=white)](https://ai-portfolio-bice-rho.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1C4587?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hrpromelissa/)
@@ -18,11 +18,19 @@
 
 Most organizations don't find out the people function is broken until a leader walks out the door, a deal stalls, or growth outpaces the systems meant to support it. Fixing it after that costs more than building it right from the start.
 
-Across 14 years as a Head of People, VP HR, and HR Business Partner, the work has built human capital infrastructure across PE-backed platforms reporting into CEOs and Boards, complex matrixed organizations spanning global subsidiaries and multiple countries, large-scale institutions serving thousands of employees, and fast-scaling companies building the people function from zero.
+<br>
+
+As a Head of People, VP HR, and HR Business Partner, the work has built human capital infrastructure across PE-backed platforms reporting into CEOs and Boards, complex matrixed organizations spanning global subsidiaries and multiple countries, large-scale institutions serving thousands of employees, and fast-scaling companies building the people function from zero.
+
+<br>
 
 **1,000-person SaaS and consulting firm in active PE restructuring:** led a 20-person HR team across the U.S., EMEA, India, and Australia on a $9M budget, advised the CEO and PE sponsors on transaction-readiness decisions, reversed workforce attrition 31% to near-zero, and lifted HR operating efficiency 35% across four countries.
 
+<br>
+
 **Built a People function from zero** at a fast-growing company, scaling headcount 50 to 100+ in two years, cutting time-to-productivity 30% and turnover 15% while revenue doubled. Across organizations from 50 to 1,500 employees, including mid-market and PE-backed clients: eliminated $1.2M in excess labor spend, closed 53% pay equity gaps, advised leadership through 4 M&A transactions across 4 countries with all target leadership retained, and activated succession planning for every critical role.
+
+<br>
 
 Increasingly focused on where AI intersects with HR: building AI-enabled HR workflows for performance management, HR due diligence, and manager decision support that speed execution without replacing human judgment.
 
