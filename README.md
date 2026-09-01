@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1C4587&fontColor=FFFFFF&text=Melissa%20Weiss&fontSize=38&desc=Enterprise%20People%20Strategy%20%7C%20Fractional%20CHRO&descColor=ACC2E6&animation=fadeIn" />
+<img width="100%" height="220" src="https://capsule-render.vercel.app/api?type=waving&color=1C4587&fontColor=FFFFFF&text=Melissa%20Weiss&fontSize=44&fontAlignY=32&desc=Human%20Resources%20Executive&descAlignY=58&descSize=20&descColor=ACC2E6&animation=fadeIn&height=220" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&color=1C4587&center=true&vCenter=true&width=820&lines=CHRO+%7C+VP+People+%7C+Head+of+People;Workforce+Planning+%7C+Org+Design+%7C+M%26A+Integration;15%2B+years+building+HR+functions+from+zero+to+scale;Actively+seeking+permanent+senior+HR+leadership+roles" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&color=1C4587&center=true&vCenter=true&width=820&lines=Enterprise+People+Strategy+%7C+Workforce+%26+Culture;Organizational+Design+%7C+Global+Expansion;Partners+with+CEOs+to+align+people+strategy+with+business+outcomes;Open+to+senior+HR+leadership+opportunities" />
 
 ![Location](https://img.shields.io/badge/New_York%2C_NY-1C4587?style=for-the-badge&logo=googlemaps&logoColor=white)
 
