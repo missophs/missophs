@@ -210,9 +210,9 @@ matching of recruiting capacity to demand, expanded referrals, and coaching for 
 | Metric | Context |
 | :--- | :--- |
 | 31% → near-zero | Workforce attrition reversed at a 1,000-person org through PE restructuring |
-| 53% | Pay equity gaps closed via job architecture built from scratch |
+| 10% | Pay equity gaps closed via job architecture built from scratch |
 | $1.2M | Excess labor and vendor spend eliminated across 6 client engagements |
-| 42% | eNPS lift in year one |
+| 42 points | eNPS lift in year one |
 | 4 | M&A transactions advised across 4 countries, all target leadership retained |
 | 32% | Workforce forecast accuracy gained via a CFO-aligned headcount model |
 
