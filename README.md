@@ -86,7 +86,7 @@ Workday · ADP · Paylocity · Lever · GitHub
 
 **AI-enabled ER advisory model** — Formalized ER investigation protocols and extended an AI-enabled Employee Relations advisory model firm-wide. Cut ER risk exposure 20% and eliminated outside counsel dependency for terminations and accommodations.
 
-**AI performance platform governance** — Established governance for an AI-driven performance feedback platform, defining policy standards and decision criteria. Enabled a controlled pilot with 50% of employees, 40% reporting actionable feedback.
+**AI performance platform governance** — Established governance and slack plug infor an AI-driven performance feedback platform, defining policy standards and decision criteria. Enabled a controlled pilot with 50% of employees, 40% reporting actionable feedback.
 
 **Automation that returns hours** — Global HRIS implementations across four regions plus platform consolidation that recovered 9 hours weekly, redirected to hiring quality and retention work.
 
@@ -155,30 +155,42 @@ Workday · ADP · Paylocity · Lever · GitHub
 
 ## Experience
 
-**Fractional Head of People — DHW Consulting Services** · Aug 2023 – Present
-- Delivered org design and internal mobility strategy across 6 client engagements, eliminating $1.2M in excess labor spend and sustaining a 35% cost reduction across organizations ranging from 50 to 1,500 employees (Healthcare, Media, Professional Services, Tech, SaaS)
-- Closed 53% pay equity gaps and modernized total rewards strategy at a mid-market organization by building job architecture from scratch and benchmarking 500+ roles to live market data
-- Extended an AI-enabled employee relations advisory model firmwide for a media client, cutting ER risk exposure 20%
-- Embedded workforce planning into quarterly business reviews with client CFOs, lifting forecast accuracy 32%
-- Interim Head of People engagement (May 2025 – Mar 2026): led HR due diligence and stood up the People function for a SaaS spinout, closed 10% pay equity gaps, lifted hiring 7% and retention 9%, and maintained 100% employee continuity through the restructure
+**Embedded Human Resources Leader  — DHW Consulting Services** · Aug 2023 – Present
+- Employee-relations risk exposure fell 20%, measured through lower case escalation rates and fewer repeat issues, after partnering with Legal on investigation protocols and requiring human review before any AI-informed employee decision
+-	Filled critical roles internally and cut external senior-hiring costs 11% through executive talent calibrations, named successors, and development plans for ready-now and near-term talent
+-During spin-off preparation, retention rose 9% after I shaped total-rewards and retention plans for critical roles using workforce and competitor data
+-	Pay-equity gaps closed 10% across roles, levels, and employee populations through compensation reviews with Finance and business leaders and targeted corrections identified during due diligence
+-	A Slack performance check-in pilot reached 50% of one client's workforce, with 40% of users reporting feedback they could act on; I added manager-selected discussion topics and manager-only notes to make the check-ins more useful
 
-**Global Head of Human Resources & Talent Acquisition / Chief People Officer — Cprime, Inc** · Jan 2022 – Jul 2023
-- Reversed workforce attrition 31% to near-zero across a 1,000-person global organization during active PE restructuring, contributing directly to a successful company sale at target valuation
-- Cut executive turnover 21% by training 250+ leaders across four countries on inclusive hiring and bias mitigation
-- Steered a 20-person HR team across four countries through restructuring, reductions in force, and sale
-- Advised leadership through 4 M&A transactions across 4 countries in under 2 years, retaining all target leadership post-close
+
+**Global Head of People & Talent Acquisition / HR Business Partner — Cprime, Inc** · Jan 2022 – Jul 2023
+- 	Internal succession reduced external senior-hiring costs 25% through executive readiness assessments, named successors, 
+development plans with Learning and Development, and manager coaching
+-	During the sale, per-head delivery costs fell 22% as workforce capacity was matched to client demand, the move to an India EOR 
+was completed, and employee records were consolidated in ADP Workforce Now
+-	People diligence closed 100% of its items while employee-relations response time fell 27% after I put one case intake in place, scheduled 
+Legal review, tightened documentation, and gave managers consistent guidance
+-	Across three regions, time-to-fill fell 15% and talent-acquisition efficiency rose 16% through clearer HR and TA responsibilities, better 
+matching of recruiting capacity to demand, expanded referrals, and coaching for the 20-person HR and TA team
+-	Four acquisitions and one company sale involved 120 employees, with 100% of target leaders retained and integration accelerated 
+30% through retention planning, compensation review, and defined integration timelines
+
 
 **Head of People / Human Resources Business Partner — Concierge Movement** · Jan 2018 – Jan 2022
-- Built the entire People function from zero while headcount scaled 50 to 100+ employees, enabling 2x revenue growth
-- Reduced voluntary turnover 15% and lifted employee engagement scores 20%
-- Elevated manager effectiveness 11% by strengthening performance management and employee relations
-- Cut new-hire time-to-productivity 30% by redesigning onboarding and performance management systems
+- 	Set market-based levels and pay bands for 50 - 100 roles, cutting offer-negotiation time 16% by giving leaders benchmarked positions, consistent leveling criteria across functions, and defined compensation ranges
+-	As headcount doubled from 50 to 100+, new-hire time to productivity fell 12% with role-specific ramp milestones, clear accountability with functional leaders, and regular onboarding check-ins
+-	Manager effectiveness rose 11% after preparing managers for performance conversations, aligning review cycles to the business calendar, and setting consistent feedback expectations that made development priorities clearer
+-	Workforce-planning accuracy rose 7% through quarterly capacity reviews with the founders, hiring requests tied to the budget cycle, and a pre-offer check of business need, timing, and capacity
+-	Freed 9 hours of weekly administration and ended duplicate filings after moving payroll, benefits, and compliance from three vendors onto one PEO platform with a single process for recurring employee transactions
+
 
 **Head of Human Resources (Mediacom, Sudler) / Senior HR Business Partner — WPP** · Oct 2017 – Jun 2019
-- Led People strategy across two global media subsidiaries — $9.5M HR budget, 10-person HR team, 3 countries, 800+ employees
-- Ended a 19% executive attrition rate within 12 months by restructuring reporting lines and standing up conflict-resolution sessions
-- Lifted eNPS 42% in year one and expanded internal mobility 22% through new L&D programs and ERGs
-- Realigned the $9.5M HR budget from administrative overhead into retention and learning with no added headcount
+-	Executive attrition fell from 9% to 1% within 12 months as I coached leaders through restructuring, clarified reporting lines, resolved conflicts, and addressed concerns early
+-	eNPS climbed 42 points and internal mobility 13% after translating employee-survey findings into leadership development with Learning and Development and connecting ERG and talent investments to restructuring priorities
+-	Across three countries, manager effectiveness improved 8%, measured through employee survey responses on manager feedback and performance support, after applying one calibration framework to goals, development, and succession discussions
+-	$9.5M in HR spend was reviewed with the C-Suite and Finance, shifting existing resources from Learning and Development, volunteer time, internship-to-hire, and Total Rewards toward retention and leadership development
+-	A 10-person HR team took on more routine compensation, mobility, and employee-relations decisions independently after coaching members on case assessment, decision authority, and escalation standards while partnering with central Centers of Excellence
+
 
 **Senior Director, Human Resources — NYC Health + Hospitals** · Jun 2014 – Sep 2017
 - Partnered with HR leadership, Total Rewards, and IT across compliance, employee relations, compensation strategy, and talent development for a 10,000-employee corporate population at the largest municipal public health system in the U.S.
