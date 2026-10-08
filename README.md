@@ -33,21 +33,29 @@ Guided workflows for managers and HR partners across 10 employee-management scen
 
 ### The Acquisition: Cprime (PE restructuring and company sale)
 **Situation:** A 1,000-person global SaaS and consulting firm entered PE-led restructuring and a sale. Leaders were unsure about their futures and executive flight risk threatened the deal.
+
 **Move:** Realigned roles, reporting lines, compensation, and retention terms, and ran a weekly review with Legal and Finance to clear diligence items.
+
 **Result:** Attrition went from 19% to near zero, 10 executives stayed, and every people diligence item closed.
 
 ### The Scale-Up: Concierge Movement
 **Situation:** A health and wellness startup was doubling headcount with no HR infrastructure.
+
 **Move:** Built the People function from zero: leveling and pay bands for 50 to 100 roles, structured onboarding, quarterly workforce planning tied to the budget cycle, and one PEO platform replacing three vendors.
+
 **Result:** Headcount grew from 50 to 100+, offer-negotiation time fell 16%, time to productivity fell 12%, planning accuracy rose 7%, and 9 hours of weekly admin were freed.
 
 ### The Build: AI-Enabled Employee Relations (DHW client)
 **Situation:** A client had recurring employee-relations risk and managers unsure how to document and escalate concerns.
+
 **Move:** Designed an AI-enabled Slack workflow that helps managers document concerns, get an initial gut check, and coordinate next steps with HR, using Legal-approved protocols and mandatory human review.
+
 **Result:** ER risk exposure fell 20%, measured by fewer escalations and repeat issues.
 
 ### The Pilot: AI Performance Check-Ins (DHW client)
+
 **Move:** Partnered with business leaders to identify manager needs and design in-the-moment feedback and coaching workflows in Slack, then added manager-selected discussion topics and manager-only notes.
+
 **Result:** Adoption reached 50% of the client's workforce, and 40% of users reported actionable feedback.
 ## Core Competencies
 
