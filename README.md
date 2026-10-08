@@ -15,7 +15,7 @@
 
 ## About
 
-Head of People with 15+ years across startups, global matrix organizations, PE-backed companies, and consulting clients. I retained 100% of target leaders through four acquisitions and a company sale, and I build practical AI tools for HR, including a Slack workflow that cut employee-relations risk exposure 20% with Legal-approved protocols and required human review.
+HR executive across startups, global matrix organizations, PE-backed companies, and consulting clients. I retained 100% of target leaders through four acquisitions and a company sale, and I build practical AI tools for HR, including a Slack workflow that cut employee-relations risk exposure 20% with Legal-approved protocols and required human review.
 
 Open to a permanent senior People leadership role, plus interim, fractional, and contract work.
 
