@@ -19,6 +19,15 @@ HR executive across startups, global matrix organizations, PE-backed companies, 
 
 Open to a permanent senior People leadership role, plus interim, fractional, and contract work.
 
+## How I Think About AI in HR
+
+AI is an enabler of business strategy, not the strategy itself.
+
+- **Redesign the workflow before the role.** Fix how the work gets done first. Decisions about roles and jobs come after that.
+- **Design around outcomes, not small automations.** Start from the result an HR process should produce, then remove the manual steps that stand in the way.
+- **Start where the volume is.** Talent acquisition, HR operations, learning and development, and total rewards.
+- **People make the decisions.** My tools keep a human in the loop, set clear limits on what AI may do, and go through Legal, IT, and privacy review before rollout.
+
 ## Signature Results
 
 - Closed every people diligence item for the sale, retained 100% of target leaders, and sped integration 30% across four acquisitions and one company sale (120 employees) through change management, retention planning, compensation review, and defined integration timelines.
@@ -52,11 +61,15 @@ Guided workflows for managers and HR partners across 10 employee-management scen
 
 **Result:** ER risk exposure fell 20%, measured by fewer escalations and repeat issues.
 
-### The Pilot: AI Performance Check-Ins (DHW client)
+### The Pilot: Performance Pulse, Slack performance check-ins (DHW client)
+**Situation:** Annual reviews arrive late and rest on memory. Managers needed an easy way to give feedback in the moment without adding HR overhead.
 
-**Move:** Partnered with business leaders to identify manager needs and design in-the-moment feedback and coaching workflows in Slack, then added manager-selected discussion topics and manager-only notes.
+**Move:** Partnered with business leaders to identify manager needs, then built a Slack app with a four-step flow. The manager picks a colleague and the discussion areas, saves a private draft, sends everything once, and the colleague replies to each area in Slack. Manager-only notes stay private. It runs on Slack, Cloudflare, and Supabase, and the pilot covers one approved pair in one workspace.
 
-**Result:** Adoption reached 50% of the client's workforce, and 40% of users reported actionable feedback.
+**Where AI fits:** AI helped me build the pilot. People write and send every check-in, and the app does not analyze their words. It makes no AI ratings and no employment decisions, and no employee data goes to a model. Any future AI feature needs IT and privacy approval and human review. IT should own access, security, privacy, retention, and support before rollout.
+
+**Result:** Adoption reached 50% of the client's workforce, and 40% of users reported actionable feedback. Based on that, I added manager-selected discussion topics and manager-only notes.
+
 ## Core Competencies
 
 People Strategy & Executive Partnership · Organizational Design & Operating Model Change · PE-Backed Growth, Restructuring & Company Sale · M&A Due Diligence & Integration · Workforce Planning & Labor-Cost Management · Total Rewards, Pay Equity & Job Architecture · Talent Strategy, Succession & Critical-Talent Retention · Performance Management & Manager Effectiveness · Employee Relations, Risk & Investigations · Global People Operations, EOR & Mobility · Talent Acquisition & Employer Brand · People Analytics, AI Workflow & Governance
