@@ -69,6 +69,7 @@ Guided workflows for managers and HR partners across 10 employee-management scen
 **Where AI fits:** AI helped me build the pilot. People write and send every check-in, and the app does not analyze their words. It makes no AI ratings and no employment decisions, and no employee data goes to a model. Any future AI feature needs IT and privacy approval and human review. IT should own access, security, privacy, retention, and support before rollout.
 
 **Result:** Adoption reached 50% of the client's workforce, and 40% of users reported actionable feedback. Based on that, I added manager-selected discussion topics and manager-only notes.
+**[Write-up](https://github.com/missophs/Performance-Check-In)**
 
 ## Core Competencies
 
